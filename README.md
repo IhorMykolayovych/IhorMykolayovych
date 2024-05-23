@@ -49,6 +49,7 @@
 <br>
 
 ## 🛠 Технології:
+<div align="center">
 <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="html5 logo"/>
   <img width="12" />
@@ -74,13 +75,14 @@
 <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"/>
 <img width="12" />
+  </div>
 <br>
 <br>
 
 ## 🔥 Статистика :
 <br>
 
-<div align="center"
+<div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ihor-mykolayovych&theme=codestackr&hide_border=true&card_width=500&card_height=200)](https://git.io/streak-stats)
 
