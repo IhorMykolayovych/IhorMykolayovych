@@ -1,10 +1,10 @@
-
-<h1 align="center">Вітання.👋 Мене звуть Ігор!</h1>
 <br>
-
 <div align="center">
   <img height="300" width="600" src="assets/coding-2024.jpg"/>
 </div>
+<br>
+
+<h1 align="center">Вітання.👋 Мене звуть Ігор!</h1>
 <br>
 
 <div align="center">
