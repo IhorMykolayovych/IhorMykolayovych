@@ -1,36 +1,34 @@
-<br clear="both">
+
+# Вітання.👋 Мене звуть Ігор!
+<br>
 
 <div align="center">
   <img height="300" width="600" src="assets/coding-2024.jpg"/>
 </div>
-
-###
-
-<h1 align="center">Вітання.👋 Мене звуть Ігор!</h1>
-
-###
+<br>
 
 <div align="center">
   <a href="https://t.me/ignikots" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"/>
   </a>
 </div>
-
-###
+<br>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ihor-mykolayovych"/>
 </div>
+<br>
+<br>
 
-###
+## 👩‍💻  Про мене
+<br>
+Я Frontend розробник-початківець. Точніше, я ще вчуся.
 
-<h3 align="left">👩‍💻  Про мене</h3>
+Моє знайомство з it почалося з різних безкоштовних курсів на YouTube.
 
-###
-
-<p align="left">Я Frontend розробник-початківець. Точніше, я ще вчуся. Моє знайомство з it почалося з різних безкоштовних курсів на YouTube.
 Я знайшов те, що шукав, і ось я тут...
-Буду ділитися з вами результатами свого навчання</p>
+
+Буду ділитися з вами результатами свого навчання
 <br>
 <div align="left">
       Frontend-курси від Youtube-каналу:
@@ -41,23 +39,17 @@
       ДЛЯ ЗАПИТАНЬ ПРО FRONTEND:
       <a href="https://t.me/profrontendua" target="_blank">https://t.me/profrontendua</a>
 </div>
-
 <br>
-
-###
+<br>
 
 <div align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </div>
+<br>
+<br>
 
-###
-
-<h3 align="left">🛠 Технології:</h3>
-
-###
-
-<div align="left">
-
+## 🛠 Технології:
+<br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="html5 logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="css3 logo"/>
@@ -82,10 +74,11 @@
 <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"/>
 <img width="12" />
+<br>
+<br>
 
-<h3 align="left">🔥 Статистика :</h3>
-
-###
+## 🔥 Статистика :
+<br>
 
 <div align="center"
 
@@ -96,5 +89,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihor-mykolayovych&layout=compact&theme=codeSTACKr&hide_border=false&order=1)
 
 </div>
-
-###
