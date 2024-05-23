@@ -87,15 +87,9 @@
 
 ###
 
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ihor-mykolayovych&theme=codeSTACKr&hide_border=&card_width=500&card_height=200" alt="GitHub Streak" /></a>
-</div>
-
-###
-
 <div align="center"
 
-###
+[![GitHub Streak](https://streak-stats.demolab.com?user=ihor-mykolayovych&theme=codestackr&hide_border=true&card_width=500&card_height=200)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihor-mykolayovych&show_icons=true&theme=codeSTACKr&hide_border=1)
 
