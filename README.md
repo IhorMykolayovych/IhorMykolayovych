@@ -1,6 +1,6 @@
 <br>
 <div align="center">
-  <img height="300" width="600" src="assets/coding-2024.jpg"/>
+  <img src="assets/840-1.jpg"/>
 </div>
 <br>
 
