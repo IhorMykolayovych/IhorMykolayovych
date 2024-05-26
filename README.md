@@ -15,7 +15,7 @@
 <br>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ihor-mykolayovych"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ihormykolayovych"/>
 </div>
 <br>
 <br>
@@ -84,10 +84,10 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ihor-mykolayovych&theme=codestackr&hide_border=true&card_width=500&card_height=200)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ihormykolayovych&theme=codestackr&hide_border=true&card_width=500&card_height=200)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihor-mykolayovych&show_icons=true&theme=codeSTACKr&hide_border=1)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihormykolayovych&show_icons=true&theme=codeSTACKr&hide_border=1)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihor-mykolayovych&layout=compact&theme=codeSTACKr&hide_border=false&order=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihormykolayovych&layout=compact&theme=codeSTACKr&hide_border=false&order=1)
 
 </div>
